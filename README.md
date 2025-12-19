@@ -33,7 +33,7 @@
 
 2.  **Copy and paste this entire line** (this moves to your Downloads folder and downloads the game in one step):
     ```bash
-    cd Downloads && git clone https://github.com/MalikFikret/MazeRaceGameProject.git
+    cd Downloads && git clone https://github.com/MalikAlhasan/JavaMazeGame.git
     ```
 2.  Open the project in your preferred IDE (IntelliJ IDEA, Eclipse, or NetBeans).
 3.  Run the `Main.java` file located in the `modulProject` package.
@@ -42,15 +42,15 @@
 
 | Main Menu |
 |:---:|
-| <img src="Assists/Menu.png" width="400"> |
+| <img src="Assets/Menu.png" width="400"> |
 
 | Gameplay |
 |:---:|
-| <img src="Assists/GamePLay.png" width="400"> |
+| <img src="Assets/GamePLay.png" width="400"> |
 
 | AI Mode / Leaderboard |
 |:---:|
-| <img src="Assists/AIMode.png" width="400"> |
+| <img src="Assets/AIMode.png" width="400"> |
 
 <br>
 
